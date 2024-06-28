@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/datn-fe/static/css/main.f9337e7d.css",
+    "main.js": "/datn-fe/static/js/main.19f0f540.js",
+    "static/js/975.691b78c0.chunk.js": "/datn-fe/static/js/975.691b78c0.chunk.js",
+    "static/js/213.7f5320d7.chunk.js": "/datn-fe/static/js/213.7f5320d7.chunk.js",
+    "static/js/455.ef3fb8b7.chunk.js": "/datn-fe/static/js/455.ef3fb8b7.chunk.js",
+    "static/js/453.a9d8ab9c.chunk.js": "/datn-fe/static/js/453.a9d8ab9c.chunk.js",
+    "static/media/sidebar-2.webp": "/datn-fe/static/media/sidebar-2.d8699076d4ea93595004.webp",
+    "static/media/infj.png": "/datn-fe/static/media/infj.502821585c46b00f1cbf.png",
+    "static/media/entp.png": "/datn-fe/static/media/entp.45016f0364e16c6b7e93.png",
+    "static/media/isfp.png": "/datn-fe/static/media/isfp.fbfc9aa049f1c3a80db8.png",
+    "static/media/esfj.png": "/datn-fe/static/media/esfj.59e9d35c305961a03e28.png",
+    "static/media/estp.png": "/datn-fe/static/media/estp.be37a0324375e05fde1e.png",
+    "static/media/istj.png": "/datn-fe/static/media/istj.0922d3cdde6efbcbbdaf.png",
+    "static/media/entj.png": "/datn-fe/static/media/entj.3a8a0da0e7e74607c8eb.png",
+    "static/media/isfj.png": "/datn-fe/static/media/isfj.0e7788f2a010d4e64127.png",
+    "static/media/intj.png": "/datn-fe/static/media/intj.c71cf95701d29be457b7.png",
+    "static/media/estj.png": "/datn-fe/static/media/estj.29a60243ddd61349de31.png",
+    "static/media/infp.png": "/datn-fe/static/media/infp.2e90fef053413fe7eb17.png",
+    "static/media/intp.png": "/datn-fe/static/media/intp.b72804087587e86d393c.png",
+    "static/media/enfp.png": "/datn-fe/static/media/enfp.9ebfc72c2209694fc42c.png",
+    "static/media/enfj.png": "/datn-fe/static/media/enfj.468ff29b7a96c29f0894.png",
+    "static/media/esfp.png": "/datn-fe/static/media/esfp.92b81c41a7d4526d5518.png",
+    "static/media/istp.png": "/datn-fe/static/media/istp.2c2e03435b6b9069c435.png",
+    "static/media/undraw_happy_announcement_ac67.svg": "/datn-fe/static/media/undraw_happy_announcement_ac67.8ba4ee91e0dceee4b47d46c5648c3ab2.svg",
+    "static/media/logo.svg": "/datn-fe/static/media/logo.8fb868e4542b24f735871ec8e7bfd500.svg",
+    "static/media/mathematics.svg": "/datn-fe/static/media/mathematics.be37b1e006ed265d7d1dad94a5e8410a.svg",
+    "index.html": "/datn-fe/index.html",
+    "main.f9337e7d.css.map": "/datn-fe/static/css/main.f9337e7d.css.map",
+    "main.19f0f540.js.map": "/datn-fe/static/js/main.19f0f540.js.map",
+    "975.691b78c0.chunk.js.map": "/datn-fe/static/js/975.691b78c0.chunk.js.map",
+    "213.7f5320d7.chunk.js.map": "/datn-fe/static/js/213.7f5320d7.chunk.js.map",
+    "455.ef3fb8b7.chunk.js.map": "/datn-fe/static/js/455.ef3fb8b7.chunk.js.map",
+    "453.a9d8ab9c.chunk.js.map": "/datn-fe/static/js/453.a9d8ab9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9337e7d.css",
+    "static/js/main.19f0f540.js"
+  ]
+}
